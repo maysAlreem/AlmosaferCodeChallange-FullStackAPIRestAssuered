@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٢ AST" name="Default suite" finished-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٦ AST" duration-ms="4498">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٢ AST" name="Default test" finished-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٦ AST" duration-ms="4498">
+      <class name="tests.AlmosaferTests">
+        <test-method signature="TestGet()[pri:0, instance:tests.AlmosaferTests@3c22fc4c]" started-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٢ AST" name="TestGet" finished-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٥ AST" duration-ms="3155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGet -->
+        <test-method signature="TestPost()[pri:0, instance:tests.AlmosaferTests@3c22fc4c]" started-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٥ AST" name="TestPost" finished-at="٢٠٢٣-١١-٠٣T١٤:٢٢:٠٦ AST" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPost -->
+      </class> <!-- tests.AlmosaferTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
